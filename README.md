@@ -9,13 +9,12 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 📫 How to reach me **mayukh2905@gmail.com**
+- 📫 How to reach me **mayukh1503.2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayukh-bhattacharya-86215a1b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayukh-bhattacharya-86215a1b" height="30" width="40" /></a>
-<a href="https://instagram.com/soul_singer_mayukh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="soul_singer_mayukh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mayukh@hacker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mayukh@hacker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayukh-bhattacharya-86215a1ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayukh-bhattacharya-86215a1b" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mayukh1503_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mayukh@hacker" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
